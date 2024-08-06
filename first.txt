@@ -1,1 +1,9 @@
 creted this file in the github folder directly. 
+
+Thi is my first commit .. 
+
+change 2
+change 2
+
+this is the second commit 
+
